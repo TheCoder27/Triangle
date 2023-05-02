@@ -1,3 +1,4 @@
+print("Only works with integers")
 base = int(input("What is the base of the triangle: "))
 height = int(input("What is the height of the triangle: "))
 hypotenuse = int(input("What is the hypotenuse of the triangle: "))

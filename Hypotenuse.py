@@ -1,6 +1,7 @@
 import time
 import math
 
+print("Only works with integers")
 base = int(input("What is the base of the triangle: "))
 height = int(input("What is the height of the triangle: "))
 
